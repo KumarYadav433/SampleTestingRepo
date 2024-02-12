@@ -10,6 +10,7 @@ namespace Miracle.Employee.Api.Data
 {
    public  class SqlServerDBContext : DbContext
     {
+		//dbcontext connection with employinfo table
         public SqlServerDBContext(DbContextOptions<SqlServerDBContext> options) : base(options)
         {
 
@@ -18,6 +19,7 @@ namespace Miracle.Employee.Api.Data
         {
 
         }
+		
         public DbSet<EmployeeInfo> EmployeeInfo { get; set; }
     }
 }
