@@ -1,0 +1,12 @@
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Entities\bin\Debug\net5.0\Miracle.Employee.Api.Entities.deps.json
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Entities\bin\Debug\net5.0\Miracle.Employee.Api.Entities.dll
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Entities\bin\Debug\net5.0\ref\Miracle.Employee.Api.Entities.dll
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Entities\bin\Debug\net5.0\Miracle.Employee.Api.Entities.pdb
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Entities\obj\Debug\net5.0\Miracle.Employee.Api.Entities.csproj.AssemblyReference.cache
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Entities\obj\Debug\net5.0\Miracle.Employee.Api.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Entities\obj\Debug\net5.0\Miracle.Employee.Api.Entities.AssemblyInfoInputs.cache
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Entities\obj\Debug\net5.0\Miracle.Employee.Api.Entities.AssemblyInfo.cs
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Entities\obj\Debug\net5.0\Miracle.Employee.Api.Entities.csproj.CoreCompileInputs.cache
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Entities\obj\Debug\net5.0\Miracle.Employee.Api.Entities.dll
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Entities\obj\Debug\net5.0\ref\Miracle.Employee.Api.Entities.dll
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Entities\obj\Debug\net5.0\Miracle.Employee.Api.Entities.pdb

@@ -1,0 +1,17 @@
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\bin\Debug\net5.0\Miracle.Employee.Api.Repository.deps.json
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\bin\Debug\net5.0\Miracle.Employee.Api.Repository.dll
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\bin\Debug\net5.0\ref\Miracle.Employee.Api.Repository.dll
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\bin\Debug\net5.0\Miracle.Employee.Api.Repository.pdb
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\bin\Debug\net5.0\Miracle.Employee.Api.Data.dll
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\bin\Debug\net5.0\Miracle.Employee.Api.Entities.dll
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\bin\Debug\net5.0\Miracle.Employee.Api.Data.pdb
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\bin\Debug\net5.0\Miracle.Employee.Api.Entities.pdb
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\obj\Debug\net5.0\Miracle.Employee.Api.Repository.csproj.AssemblyReference.cache
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\obj\Debug\net5.0\Miracle.Employee.Api.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\obj\Debug\net5.0\Miracle.Employee.Api.Repository.AssemblyInfoInputs.cache
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\obj\Debug\net5.0\Miracle.Employee.Api.Repository.AssemblyInfo.cs
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\obj\Debug\net5.0\Miracle.Employee.Api.Repository.csproj.CoreCompileInputs.cache
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\obj\Debug\net5.0\Miracle.Employee.Api.Repository.csproj.CopyComplete
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\obj\Debug\net5.0\Miracle.Employee.Api.Repository.dll
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\obj\Debug\net5.0\ref\Miracle.Employee.Api.Repository.dll
+D:\Miracle\EmployeeProject\Miracle.Employee.Api.Repository\obj\Debug\net5.0\Miracle.Employee.Api.Repository.pdb

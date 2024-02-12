@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Miracle.Employee.Api.Entities/1.0.0": {
+        "runtime": {
+          "Miracle.Employee.Api.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Miracle.Employee.Api.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
